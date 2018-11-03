@@ -26,7 +26,7 @@
 *************************************************
 1. Open the terminal and execute the following  
 
-git clone https://github.com/shivasiddharth/GassistPi    
+git clone https://github.com/AkterAhsan/Mina-pi  
 
 
 *************************************************  
